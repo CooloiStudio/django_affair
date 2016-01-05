@@ -55,3 +55,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# PyCharm
+.idea/*
+
+# Django
+*.pyc
+affair/settings.py
+config/*
