@@ -63,3 +63,4 @@ target/
 *.pyc
 affair/settings.py
 config/*
+*/migrations/*
